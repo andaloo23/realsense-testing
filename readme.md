@@ -2,4 +2,4 @@
 
 ## Setup
 
-1. Install the pyrealsense2 package for macOS: pip install pyrealsense2-macosx
+1. Install the prebuilt pyrealsense2 package for macOS: pip install pyrealsense2-macosx
